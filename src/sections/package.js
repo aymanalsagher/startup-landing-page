@@ -285,7 +285,7 @@ export default function Package() {
   };
 
   return (
-    <section sx={{ variant: "section.pricing" }}>
+    <section id="pricing" sx={{ variant: "section.pricing" }}>
       <Container>
         <SectionHeader slogan="Pricing Plan" title="Choose your pricing plan" />
 
